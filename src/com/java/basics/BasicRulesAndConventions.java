@@ -4,7 +4,7 @@ package com.java.basics;//R1 package declaration is must
 
 //R2 class > fn/methods/blocks
 // C1: class names should be in PascalCase
-public class BaicRulesAndConventions {//R3keywords: they are reserved words
+public class BasicRulesAndConventions {//R3keywords: they are reserved words
 
 
     // C2: the fn name and the varibale names should be in camelCase
