@@ -39,6 +39,7 @@ public class SwitchCase {
         }
 
         System.out.println("Thank You for service  :)");
+        sc.close();
 
     }
 
