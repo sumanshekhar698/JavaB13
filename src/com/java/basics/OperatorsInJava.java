@@ -87,7 +87,6 @@ class OperatorsInJava {
         // bitwise right shift [>>]
         System.out.println(8 >> 3);// 8/2/2/2 :: = 1
 
-        // Loops
 
     }
 }
