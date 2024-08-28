@@ -10,7 +10,8 @@ public class MainPrime {
 		
 		PrimeMinister pm1 = PrimeMinister.electPm("Mr Modi", 65);
 		System.out.println(pm1.hashCode());
-		
+		System.out.println(pm1.getName());
+
 		PrimeMinister pm2 = PrimeMinister.electPm("Mr Rahul", 50);
 		System.out.println(pm2.hashCode());
 		System.out.println(pm2.getName());

@@ -144,4 +144,4 @@ public class Elevator {
 	private boolean isInvalidFloor(int floor) {
 		return floor < MIN_FLOOR || floor > MAX_FLOOR;
 	}
-}
+}//Spring

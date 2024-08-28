@@ -1,4 +1,4 @@
-package com.java.oops.static_concept;
+package com.java.advance.mutithreading;
 
 public class PrimeMinister {// Singleton Pattern
 
